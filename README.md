@@ -4,6 +4,10 @@
 ## **List of Implementation**
 ---
 
+#### Data Structures
+
+* **Stack**
+
 #### Search Algo
 
 * **Binary Search**
