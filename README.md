@@ -12,10 +12,10 @@
 
 * **Bubble Sort**
 
-* **Insertion Sort**
+* **Insertion Sort**</br>
   _Includes commented print statements that helps me understand on how it works_
 
-* **No Idea Sort**
+* **No Idea Sort**</br>
  _Unexpected Sorting Algo From Insertion Sort_
 
 
