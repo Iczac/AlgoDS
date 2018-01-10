@@ -12,3 +12,7 @@
 
 * **Bubble Sort**
 
+* **No Idea Sort**
+ _Unexpected Sorting Algo From Insertion Sort_
+
+

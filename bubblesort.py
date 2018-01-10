@@ -1,4 +1,4 @@
-x = [64,23,112,4,5,7,3,2,8,43,42]
+py_arr = [3,61,4124,43,2312,33,2,14,5,6]
 
 def bubble_sort(x):
     i = 0
@@ -20,5 +20,5 @@ def bubble_sort(x):
         print('Sorted Array - ' + str(x))
 
 
-bubble_sort(x)
+bubble_sort(py_arr)
 
