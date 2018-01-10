@@ -7,6 +7,7 @@
 #### Data Structures
 
 * **Stack**
+* **Queue**
 
 #### Search Algo
 
