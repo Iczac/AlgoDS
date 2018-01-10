@@ -1,4 +1,4 @@
-py_arr = [131]
+py_arr = [7,843,1,23,131]
 
 def b_search(data,x):
 
