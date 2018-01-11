@@ -13,6 +13,8 @@
 
 * **Binary Search**
 
+* **Linear Search**
+
 #### Sort Algo
 
 * **Bubble Sort**
@@ -23,4 +25,7 @@
 * **No Idea Sort**</br>
  _Unexpected Sorting Algo From Insertion Sort_
 
+#### Usage
 
+* **Validate Parentheses Usage**</br>
+  _Exercise From RuneStone Project_
