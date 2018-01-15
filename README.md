@@ -35,3 +35,6 @@
 
 * **Convert Decimal Value to Hexadecimal Value**</br>
   _Exercise From RuneStone Project_
+
+* **Hotpotato Game Implementation**</br>
+  _Exercise From RuneStone Project_
