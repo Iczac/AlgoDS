@@ -1,4 +1,5 @@
-#By using Stack Data Struture...Convert Decimal to Binary Value....
+#By using Stack Data Struture...Convert Decimal to Hexadecimal Value....
+
 class Stack():
 
     def __init__(self):
@@ -16,18 +17,19 @@ class Stack():
     def size(self):
         return len(self.items)
 
-
-decimal = 56;
+decimal = 53123
 
 stak = Stack()
 
+hexa_digits = '0123456789ABCDEF'
+
 while decimal > 0:
-    remainder = decimal % 2
-    decimal = decimal // 2
+    remainder = decimal % 16
+    decimal = decimal // 16
     stak.push(remainder)
 
 bin_str = ''
 while stak.size() > 0:
-    bin_str += str(stak.pop())
+    bin_str += hexa_digits[stak.pop()]
 
 print(bin_str)
