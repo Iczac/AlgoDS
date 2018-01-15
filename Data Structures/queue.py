@@ -9,6 +9,9 @@ class Queue():
     def deque(self):
         return self.items.pop(0)
 
+    def size(self):
+        return len(self.items)
+
     def peek(self):
         return self.items[0]
 
