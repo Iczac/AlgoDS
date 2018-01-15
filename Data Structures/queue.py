@@ -15,6 +15,12 @@ class Queue():
     def cleanslate(self):
         self.items = []
 
+    def isEmpty(self):
+        if self.size() == 0:
+            return True
+        else:
+            return False
+
     def contain(self,item):
         i = 0
         while i < len(self.items):
