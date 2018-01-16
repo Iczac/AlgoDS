@@ -18,7 +18,7 @@ class Queue():
     def cleanslate(self):
         self.items = []
 
-    def isEmpty(self):
+    def is_empty(self):
         if self.size() == 0:
             return True
         else:

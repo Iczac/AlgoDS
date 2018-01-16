@@ -8,6 +8,7 @@
 
 * **Stack**
 * **Queue**
+* **Deque**
 
 #### Search Algo
 
