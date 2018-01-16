@@ -39,3 +39,6 @@
 
 * **Hotpotato Game Implementation**</br>
   _Exercise From RuneStone Project_
+
+* **Palindrome Checker**</br>
+  _Exercise From RuneStone Project_
