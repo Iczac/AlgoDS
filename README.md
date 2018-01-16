@@ -9,6 +9,7 @@
 * **Stack**
 * **Queue**
 * **Deque**
+* **Linked List**
 
 #### Search Algo
 
