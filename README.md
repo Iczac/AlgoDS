@@ -45,10 +45,10 @@
   _Exercise From RuneStone Project_
 
 * **Linked List Challenges**</br>
-  _Includes 6 Challenges_
-  _1. Traverse a linked list_
-  _2. Remove duplicates from a linked list_
-  _3. Get the kth to last element from a linked list_
-  _4. Delete a node from a linked list_
-  _5. Add Linked List from left to right_
+  _Includes 6 Challenges_</br>
+  _1. Traverse a linked list_</br>
+  _2. Remove duplicates from a linked list_</br>
+  _3. Get the kth to last element from a linked list_</br>
+  _4. Delete a node from a linked list_</br>
+  _5. Add Linked List from left to right_</br>
   _6. Add Linked List from right to left_
