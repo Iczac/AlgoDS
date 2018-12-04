@@ -12,10 +12,6 @@
 * **Linked List**
 * **Heap**
 
-#### Graph Algo
-
-* **Kosaraju**
-
 #### Search Algo
 
 * **Binary Search**
@@ -61,5 +57,3 @@ _3. Get the kth to last element from a linked list_</br>
 _4. Delete a node from a linked list_</br>
 _5. Add Linked List from left to right_</br>
 _6. Add Linked List from right to left_
-
-
