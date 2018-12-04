@@ -1,4 +1,4 @@
-# Algo & DS
+# Algo && DS
 
 
 ## **List of Implementation**
